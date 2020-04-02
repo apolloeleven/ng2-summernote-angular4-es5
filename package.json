@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mirushaki/ng2-alt-summernote.git"
+    "url": "https://github.com/apolloeleven/ng2-summernote-angular4-es5.git"
   },
   "scripts": {
     "prepublish": "tsc"
